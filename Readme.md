@@ -12,7 +12,7 @@
 Pour récupérer les sources du projet, faire dans un répetoire vide :
 
 ```sh
-git clone git@gitlab-etu.fil.univ-lille1.fr:biveguengoa/jsfs_l3_bivegue_pululu.git
+git clone https://github.com/biveguengoa/Projet-Pong-2022.git
 
 ```
 
